@@ -1,0 +1,10 @@
+# Python dependencies for Unity ML-Agents training notebook and ONNX export
+mlagents==0.30.0
+mlagents-envs==0.30.0
+stable-baselines3==2.0.0
+gymnasium==0.28.1
+torch==2.0.1
+torchvision==0.15.2
+onnx
+numpy>=1.21,<2.0
+psutil
