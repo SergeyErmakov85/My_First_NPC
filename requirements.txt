@@ -1,4 +1,4 @@
-# Python dependencies for Unity ML-Agents training notebook and ONNX export
+# Python dependencies for Unity ML-Agents training notebook and ONNX export (Версия Python по метаданным ноутбука — 3.8.20)
 mlagents==0.30.0
 mlagents-envs==0.30.0
 stable-baselines3==2.0.0
